@@ -1,0 +1,8 @@
+C:\Users\aluno\Desktop\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\bin\Debug\ProjPilhaTransp.exe.config
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\obj\Debug\ProjPilhaTransp.csprojAssemblyReference.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\obj\Debug\ProjPilhaTransp.csproj.CoreCompileInputs.cache
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\bin\Debug\ProjPilhaTransp.exe.config
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\bin\Debug\ProjPilhaTransp.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\bin\Debug\ProjPilhaTransp.pdb
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\obj\Debug\ProjPilhaTransp.exe
+F:\backup\Documentos\IFSP\Quarto Semestre\Estrutura de Dados 2\TPs\ProjPilhaTransp\Projeto\ProjPilhaTransp\ProjPilhaTransp\obj\Debug\ProjPilhaTransp.pdb
